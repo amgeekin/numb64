@@ -1,0 +1,15 @@
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\bin\Debug\net6.0\Numb64.exe
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\bin\Debug\net6.0\Numb64.deps.json
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\bin\Debug\net6.0\Numb64.runtimeconfig.json
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\bin\Debug\net6.0\Numb64.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\bin\Debug\net6.0\Numb64.pdb
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.csproj.AssemblyReference.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.AssemblyInfoInputs.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.AssemblyInfo.cs
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.csproj.CoreCompileInputs.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\refint\Numb64.dll
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.pdb
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\Numb64.genruntimeconfig.cache
+C:\Users\User120121\Desktop\GEEK BRAINS\Numb64\obj\Debug\net6.0\ref\Numb64.dll
